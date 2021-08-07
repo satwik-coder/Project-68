@@ -1,0 +1,7 @@
+body {
+    text-align: center;
+    background: linear-gradient(120deg, rgba(255, 0, 232, 1) 0%, rgba(132, 0, 255, 1) 14%, rgba(0, 0, 0, 1) 28%, rgba(0, 22, 255, 1) 56%, rgba(255, 0, 0, 1) 70%, rgba(255, 0, 255, 1) 84%, rgba(9, 255, 0, 1) 100%);
+    background-repeat: no-repeat;
+}
+
+
